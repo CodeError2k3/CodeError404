@@ -16,15 +16,15 @@ body{
     width: 100%;  min-height: 100vh;
 }
 .container section:nth-of-type(1){
-    background: url(https://www.gettyimages.fr/gi-resources/images/500px/983794168.jpg);
+    background: url(/anhnen1.jpeg);
     background-size: 100% 100vh;
 }
 .container section:nth-of-type(2){
-    background: url(https://img.wallpapersafari.com/desktop/1366/768/75/54/LR5fOw.jpg);
+    background: url(/anhnen2.jpeg);
     background-size: 100% 100vh;
 }
 .container section:nth-of-type(3){
-    background: url(https://clippingpathbirds.com/wp-content/uploads/2019/12/blog.jpg);
+    background: url(/anhnen3.jpeg);
     background-size: 100% 100vh;
 }
 
