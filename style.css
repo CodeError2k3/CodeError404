@@ -16,15 +16,15 @@ body{
     width: 100%;  min-height: 100vh;
 }
 .container section:nth-of-type(1){
-    background: url(/anhnen1.jpeg);
+    background: url(https://codeerror2k3.github.io/CodeError404/anhnen1.jpeg);
     background-size: 100% 100vh;
 }
-.container section:nth-of-type(2){
-    background: url(/anhnen2.jpeg);
+.container section:nth-of-type(2)
+    background: url(https://codeerror2k3.github.io/CodeError404/anhnen2.jpeg);
     background-size: 100% 100vh;
 }
 .container section:nth-of-type(3){
-    background: url(/anhnen3.jpeg);
+    background: url(https://codeerror2k3.github.io/CodeError404/anhnen3.jpeg);
     background-size: 100% 100vh;
 }
 
